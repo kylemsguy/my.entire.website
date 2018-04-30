@@ -1,6 +1,7 @@
 # Jekyll configuration
 
 name: entire.website blog
+title: entire.website blog
 description: Welcome to the entire website's blog!
 
 # url is currently only used only for the RSS feed in feed.xml
