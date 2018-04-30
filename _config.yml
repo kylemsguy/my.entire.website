@@ -1,16 +1,16 @@
 # Jekyll configuration
 
-name: Xixia
-description: Welcome to Xixia！
+name: entire.website blog
+description: Welcome to the entire website's blog!
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://github.com/zxixia/jekyll-xixia
+url: blog.entire.website
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
 #     run it like so: jekyll serve --baseurl=''
-baseurl: '/jekyll-xixia'
+baseurl: ''
 ## default date_format
 date_format: 
   title: "%B-%-d-%Y"
@@ -24,6 +24,6 @@ paginate: 10
 
 highlighter: rouge
 markdown: kramdown
-gems: ['jekyll-paginate']
+plugins: ['jekyll-paginate']
 
 exclude: ['README.md', 'LICENSE', "*.bak"]
