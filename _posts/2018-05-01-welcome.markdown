@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to the entire.website blog!"
+title:  "Welcome to my.entire.website!"
 date:   2018-05-01 05:47:00 +0900
 categories: general
 ---
-Welcome to the entire.website blog! I will hopefully be updating this blog with random stuff. I suppose the homepage on entire.website needs to be updated now, eh?
+Welcome to my blog at my.entire.website! I will hopefully be updating it with random stuff. I suppose the homepage on entire.website needs to be updated now, eh?
