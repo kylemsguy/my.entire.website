@@ -14,7 +14,7 @@ url: my.entire.website
 baseurl: ''
 ## default date_format
 date_format: 
-  title: "%B-%-d-%Y"
+  title: "%B %-d, %Y"
   archive: "%b"
   categories: "%b-%Y"
   tag: "%b-%Y"
