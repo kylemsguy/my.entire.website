@@ -1,11 +1,11 @@
 # Jekyll configuration
 
-name: entire.website blog
-title: entire.website blog
-description: Welcome to the entire website's blog!
+name: my.entire.website
+title: my.entire.website
+description: Welcome to my entire website!
 
 # url is currently only used only for the RSS feed in feed.xml
-url: blog.entire.website
+url: my.entire.website
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
