@@ -1,2 +1,2 @@
-# blog.entire.website
+# my.entire.website
 This is the blog on the entire.website
