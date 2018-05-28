@@ -18,6 +18,10 @@
        <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.js"></script>
     <![endif]-->
     <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet" type="text/css">
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+
 {% include isso-comments.html %}
 </head>
 

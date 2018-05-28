@@ -28,3 +28,6 @@ markdown: kramdown
 plugins: ['jekyll-paginate']
 
 exclude: ['README.md', 'LICENSE', "*.bak"]
+
+# Google Analytics
+google_analytics: UA-119869341-1
