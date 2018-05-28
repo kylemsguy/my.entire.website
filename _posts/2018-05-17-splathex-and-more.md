@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My thoughts on SplatHeX, and Fusée Gelée as a whole"
-date:   2018-05-17 02:30:00 +0900
+date:   2018-05-28 11:00 -0400
 categories: switch hacking splatoon
 ---
 A few days ago, [SplatHeX](http://leanny.github.io/SplatHeX.html) was released. 
