@@ -3,6 +3,7 @@ layout: post
 title:  "Off to Japan!"
 date:   2018-04-27 14:00:00 -0400
 categories: japan-trip
+published: false
 ---
 Today, I was suffering through (what is hopefully) my last exam. Today, I'm flying to Japan for a 17 day trip, followed by a 3 day trip to Seoul, Korea. I'm accompanied by a couple of my friends from university.
 
