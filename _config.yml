@@ -31,3 +31,7 @@ exclude: ['README.md', 'LICENSE', "*.bak"]
 
 # Google Analytics
 google_analytics: UA-119869341-1
+
+# Social media/stuff
+twitter: https://twitter.com/kylemsguy
+github: https://github.com/kylemsguy
