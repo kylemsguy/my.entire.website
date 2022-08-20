@@ -2,6 +2,7 @@
 layout: post
 title: About Anti-Piracy and Android
 comments: true
+published: false
 ---
 Ever since I became interested in computers and other electronic devices, I always wanted to do more with them, sometimes beyond what the manufacturer intended.
 This wasn't a problem on computers, because there are absolutely no restrictions as to what you can install on them.
