@@ -22,7 +22,7 @@ I'll be honest, Zhuowei did most of the work, adding Pepe the Frog to the backgr
 Once this was finished, the community reboot of Twitch installs Arch Linux, [Twitch in the Shell](https://web.archive.org/web/20200611231223/http://twitchintheshell.com/), added a goal to boot Memetest86+ on the VM, which was actually [achieved on November 3, 2015!](https://www.youtube.com/watch?v=7tUGtroVWSM)
 
 # The demise of memetest.org
-After booting memetest was achieved, we didn't have any further plans for Memetest. Both Zhuowei and I went on to do other things. We both finished up uni, and are well into our careers building other, more cool things. I kept paying for the domain, and I honestly intended to keep it for a long time. I found the name amusing.
+After booting memetest was achieved, we didn't have any further plans for Memetest. Both Zhuowei and I went on to do other things. We both finished up uni, and are well into our careers building other, cooler things. I kept paying for the domain, and I honestly intended to keep it for a long time. I found the name amusing.
 
 However, in November 2021, I missed every renewal email, and didn't have autorenew set up on my domains. I only noticed far later, in August 2022, that some of my domains had expired, including memetest.org. Thus for the first time in 7 years, Memetest86+'s website went dark. This is purely on me, and I should have been monitoring my domains more closely. Ironically, it seems like Twitch in the Shell's domain has suffered the same fate after 2020.
 
