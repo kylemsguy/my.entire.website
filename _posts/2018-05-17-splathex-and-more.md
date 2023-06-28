@@ -3,6 +3,7 @@ layout: post
 title:  "My thoughts on SplatHeX, and Fusée Gelée as a whole"
 date:   2018-05-28 11:00 -0400
 categories: switch hacking splatoon
+comments: true
 ---
 A few days ago, [SplatHeX](http://leanny.github.io/SplatHeX.html) was released. 
 For the uninitiated, SplatHeX is a save editor for Splatoon 2 that was created by [LeanYoshi](https://twitter.com/leanyoshi). In its current incarnation, it's still quite limited, only letting the user edit gear and single player attributes. However, over the past couple of days, there has been discussion on whether this constitutes cheating in a tournament setting. This was sparked by a [statement from InkTV](https://twitter.com/Flarablitz/status/996591488598532096) that states that SplatHeX is a form of cheating and is therefore banned from BnS tournaments **if discovered.** The reason why this statement is so controversial requires some context from Splatoon 1.
